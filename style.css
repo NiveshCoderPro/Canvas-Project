@@ -1,0 +1,10 @@
+#mycanvas {
+    background-color: white;
+    border-style:groove;
+    border-width: 10px;
+    border-color:aqua;
+}
+.body_background {
+    background-image: url("pk.jpg");
+    background-size: cover;
+}
